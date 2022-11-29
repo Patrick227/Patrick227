@@ -1,3 +1,1 @@
-- I'm Patrick 
-- I code in JavaScript 
-- Learning Lua 
+-Code 
